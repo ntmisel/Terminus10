@@ -1,0 +1,4 @@
+#Tue Dec 13 11:47:23 CST 2022
+base.0=D\:\\Documents\\Proyectos\\Best-Flutter-UI-Templates-master\\best_flutter_ui_templates\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
